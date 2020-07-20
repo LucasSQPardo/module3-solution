@@ -1,0 +1,4 @@
+This is a Coursera course of web development, named: HTML, CSS e Javascript para Desenvolvedores Web.
+Available through the link: https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
+
+The challenge has to fulfill what is specified through the link: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md
