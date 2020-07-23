@@ -4,6 +4,10 @@ body{
 }
 #chicken--text, #beef--text, #sushi--text{
     color:rosybrown;
-    font-weight: 700;
+    font-weight: 500;
 }
 
+#l-menu #l-menu__title{
+    color:rosybrown;
+    font-weight: 700;
+}
